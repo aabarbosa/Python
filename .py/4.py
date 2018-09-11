@@ -1,0 +1,10 @@
+# coding: utf-8
+print "Alagoas"
+print "Bahia"
+print "Ceará"
+print "Maranhão"
+print "Paraíba"
+print "Pernambuco"
+print "Piauí"
+print "Rio Grande do Norte"
+print "Sergipe"
